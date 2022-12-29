@@ -1,0 +1,21 @@
+.Nav-Class{
+    height: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    top: 0;
+  }
+  .mode {
+    flex:1;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 3rem;
+    font-size: 3rem;
+  }
+  .n-name {
+    font-size: 3rem;
+    font-weight: bold;
+  }
